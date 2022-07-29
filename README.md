@@ -1,2 +1,2 @@
 # Gym-Management-System
-Java SE Project.
+Java SE Project. Using Java Swing and Mysql database.
